@@ -24,9 +24,16 @@ AI的快速发展和其能力的无限膨胀对于人类社会构成了双重威
 
 <!-- 1.解释 -->
 
+
+在讨论解释性技术时，首先需要理解它所蕴含的“翻译”思维。这种思维不仅仅揭示计算系统的内部状态，更重要的是让人类认知主体理解这些状态的意义，以及它们与目标系统的关系。解释性技术的作用正是在于此，它将计算系统的内部状态根据特定问题的语境，转化为人类能够理解的内容，无论是通过视觉图示还是解释性语句。这种“翻译”是高度概念化的，因为计算系统的动态演化取决于硬件和软件层面上的成千上万次变化，解释性技术需要从这些庞杂的细节中挑选出更具有相关性的元素，并给出这些元素之间的交互关系。
+
+
+
+
 解释性技术中蕴含了一种“翻译”的思维。对于人类认知主体来说，仅仅揭示出计算系统的内部状态是不够的，我们还需要知道这些状态意味着什么，以及它们如何与我们感兴趣的目标系统相关。解释性技术起到的正是这方面的作用，它根据特定问题语境，将内部状态转化为我们能够理解的内容，无论是视觉图示还是解释性语句。同时，这种“翻译”也是高度概念化的。计算系统的动态演化取决于硬件和软件层面上成千上万次的变化，解释性技术需要从这些庞杂的细节中挑选出更具有相关性的元素，并且给出这些元素之间的交互关系。换言之，基于算法所生成的种种结果本身都可以被视为是一类概念化的模型，它通过对计算过程加以抽象和简化来帮助人们理解计算系统的行为
 
-无论如何有一点可以确定，它是又一次在尝试禁止一件不可能禁止的事情。保守主义的烂伎俩：不可能参与到未来当中去，所以必须禁止向未来发展。未来主义者库兹韦尔预测，由于技术进步的指数性质，我们很快就会与“有灵魂的”机器打交道，它不仅会展示出自我意识且将远远超过人类的智能。但是，论点“无用阶级”与“利用技术彻底统治自然界”。其关注并不相同。今后的AI科学已不再是关于支配的，它的主线是惊喜：黑盒式的AI模型可能会给自己带来哪些偶然的的属性突现呢。没人知道。
+换言之，基于算法生成的种种结果本身可以被视为一种概念化的模型，它通过对计算过程的抽象和简化，帮助人们理解计算系统的行为。然而，无论如何，有一点可以确定：这种尝试是在禁止一件无法禁止的事情。保守主义的策略在于：无法参与未来的进程，因此试图禁止向未来发展。未来主义者库兹韦尔预测，由于技术进步的指数增长，我们很快将与“有灵魂的”机器打交道，它不仅会展示出自我意识且将远远超过人类的智能。值得注意的是，论点“无用阶级”与“利用技术彻底统治自然界”的关注点并不相同。今后的AI科学不再是关于支配，而是关于惊喜：黑盒式的AI模型可能会给自己带来哪些偶然的属性突现？这点没人能确定。在这种背景下，解释性技术的重要性愈发凸显，它不仅帮助我们理解现有的AI系统，还为我们提供了一个框架，去预测和应对未来可能出现的复杂问题。
+
 
 另外一篇媒体津津乐道的新闻《人工智能破解蛋白质结构可能引发医学革命》。在新的遗传学、纳米科学、人工生命和AI之中看出了一种奇怪的反转，在技术发展下成为可能的传统的、傲慢的人类中心主义发生了逆转。一些科学家说，它现在对人类的生存构成了威胁，我们该如何解释科学变成了一项如此冒险的活动？一些回答是，“支配自然”已经否定，结论是通过回退解决，怀疑是之前的技术出了问题。他们无法接受的是，在一切学科的交融下初现端倪的未来技术，它的目的正是为了无限制，就是摆脱他们。
 如同现在的围棋比赛，选手们争先模仿AI的走法，而不是反抗它。其中AI破除了围棋中的一切迷信，棋谱和形势判断均被AI重新定义。这就是一种“无用阶级”：人类的智能被AI超越，同时我们在模仿它。围棋新闻和论文中在短暂的恐慌后坦然的接受这一事实，畅想AI围棋的未来。那么将来的工程师为何又不能成为黑箱的学生？
@@ -43,9 +50,7 @@ AI的快速发展和其能力的无限膨胀对于人类社会构成了双重威
 
 最终，这些哲学探讨和技术伦理的反思将对我们构建更加公正、包容和可持续的未来社会发挥关键作用。这需要我们不仅要关注技术本身，更要深入理解和引导技术的社会影响，确保技术进步能够真正服务于提高人类福祉和加深我们对生命和宇宙的理解。
 
-Laitinen A, Sahlgren O. AI Systems and Respect for Human Autonomy. Front Artif Intell. 2021 Oct 26;4:705164. doi: 10.3389/frai.2021.705164. PMID: 34765969; PMCID: PMC8576577.
 
-Guingrich RE, Graziano MSA. Ascribing consciousness to artificial intelligence: human-AI interaction and its carry-over effects on human-human interaction. Front Psychol. 2024 Mar 27;15:1322781. doi: 10.3389/fpsyg.2024.1322781. PMID: 38605842; PMCID: PMC11008604.
 
 <!-- 2.聊天机器人  -->
 
@@ -58,19 +63,19 @@ Guingrich RE, Graziano MSA. Ascribing consciousness to artificial intelligence: 
 
 这种现代技术的发展引发的是一种新型的恋物癖，其中对象不再是具体的物质物品，而是与AI的互动体验。这种体验虽然在表面上满足了用户的社交需求，但却可能导致人们对真实人际关系的依赖减少，从而异化了人类的社交本质。这种聊天机器人提供的是一种没有风险的交流——没有被误解、被拒绝或情感伤害的风险。然而，这也可能削弱我们处理真实社会互动中固有不确定性和挑战的能力。
 
-自由——为了谁的自由，做什么的自由？我们以前的自由是哪种意义上的自由？我们是不是已经深陷控制之中，比我们自己意识到的还要深得多？与其抱怨说我们未来的自由和尊严受了威胁，也许还不如先考虑一下，现在的自由意味着什么。不这样做的话，我们就会一直像雅克·拉康说的那种癔病患者一样，拼命寻找一个主人——但只是我们能支配的那种主人。
-
 
 在哲学角度看，聊天机器人的发展引发的担忧和恐慌，不仅仅是技术层面的问题，更触及了人类对自身自由和本质的思考。近年来，随着聊天机器人技术的飞速发展，这些系统不仅能够进行基本对话，还能通过更复杂的算法来理解和反应人类的情感和需求。这种技术的进步，虽然为许多孤独的人提供了慰藉，但也引起了对人类角色和自由意义的重新审视。
 
 这种技术进步也引发了对“异化”和“自由”的哲学讨论。技术的异化不仅仅是科技使人类感到陌生或疏远，更深层次地，它是对人类自由和本质的一种挑战。当聊天机器人可以提供几乎无风险的社交互动时，它们在一定程度上替代了真实的人际关系，这可能导致人类在不知不觉中依赖这种被控制和可预测的交流方式。正如雅克·拉康所指出的，这种对控制的追求可能反映了深层的不安全感和对真实自由的渴望。
 
+
 当我们探讨未来的自由和尊严时，我们也应该反思现在的自由意味着什么。在技术高速发展的当下，我们是否已经被新的技术形式所束缚，而不再是传统意义上的自由个体？这种技术进步对我们的自由概念提出了挑战，要求我们重新定义自由的边界和内容。
+
 
 通过这样的哲学思考，我们不仅能更好地理解聊天机器人及其他高级技术如何改变我们的生活，还能深入探讨这些变化对我们作为自由主体的影响。这种反思是建立在对技术本质和人类条件深入理解的基础上，希望通过这样的讨论，我们能更加明智地应对技术带来的挑战。
 
 
-拉康的观点还提示我们思考“自由”的意义。在与聊天机器人的互动中，人们可能感觉到某种程度的“自由”——自由地表达自己，不担心批评或评判。但这种自由是在完全受控和预设的环境中实现的，这种环境只是模拟了真实的人际互动。这引发了一个问题：我们在技术进步的背景下实现的“自由”，是否正逐渐偏离了更深层次的、与他人真实互动和自我实现相关的自由？
+在与聊天机器人的互动中，人们可能感觉到某种程度的“自由”——自由地表达自己，不担心批评或评判。但这种自由是在完全受控和预设的环境中实现的，这种环境只是模拟了真实的人际互动。这引发了一个问题：我们在技术进步的背景下实现的“自由”，是否正逐渐偏离了更深层次的、与他人真实互动和自我实现相关的自由？
 
 因此，我们面临的挑战是，如何在享受技术带来的便利和“自由”同时，还能保持和培养作为社会人类的本质特质——即与他人的真实、有风险和复杂的人际关系。这种平衡的追求，是现代社会中每一个使用技术的人都必须面对的哲学问题。
 
@@ -113,17 +118,42 @@ Guingrich RE, Graziano MSA. Ascribing consciousness to artificial intelligence: 
 综上所述，当我们站在科技巨人的肩膀上向未来展望时，我们应该追求的不仅是技术的高度和广度，更是其深度和温度——技术应当成为促进人类福祉和加强社会正义的工具。在这一过程中，哲学的光辉将为我们提供导航的灯塔，帮助我们在飞速发展的技术浪潮中保持人文关怀和理性批判的力量。
 
 
-[^1]:[AI和后人类未来](https://www.project-syndicate.org/commentary/ai-post-human-future-by-slavoj-zizek-2023-04)
+[^1]:[AI和后人类未来](https://www.project-syndicate.org/commentary/ai-post-human-future-by-slavoj-zizek-2023-04) Apr 7, 2023 SLAVOJ ŽIŽEK
 
-[^2]:[AI生成的色情内容将颠覆成人行业](https://theconversation.com/ai-generated-pornography-will-disrupt-the-adult-content-industry-and-raise-new-ethical-concerns-226683)
 
-[^3]:邵嘉诚,郭贵春.计算机模拟中的解释性技术及其意义[J].科学技术哲学研究,2023,40(01):50-57.
+[^2]:[AI生成的色情内容将颠覆成人行业](https://theconversation.com/ai-generated-pornography-will-disrupt-the-adult-content-industry-and-raise-new-ethical-concerns-226683) Published: April 9, 2024 1:45pm EDT Valerie A. Lapointe
+
+
+[^3]:.[J].,
 计算机模拟中的解释性技术及其意义
 
-https://futureoflife.org/open-letter/pause-giant-ai-experiments/#/
+https://futureoflife.org/open-letter/pause-giant-ai-experiments/#/ March 22, 2023
 
-https://www.project-syndicate.org/commentary/ai-chatbots-naive-idiots-no-sense-of-irony-by-slavoj-zizek-2023-03?barrier=accesspaylog#/
+https://www.project-syndicate.org/commentary/ai-chatbots-naive-idiots-no-sense-of-irony-by-slavoj-zizek-2023-03?barrier=accesspaylog#/ SLAVOJ ŽIŽEK
 
 
 
 Wolff, Josephine. “How Is Technology Changing the World, and How Should the World Change Technology?” Global Perspectives (2021): n. pag.
+
+
+Laitinen A, Sahlgren O. AI Systems and Respect for Human Autonomy. Front Artif Intell. 2021 Oct 26;4:705164. doi: 10.3389/frai.2021.705164. PMID: 34765969; PMCID: PMC8576577.
+
+Guingrich RE, Graziano MSA. Ascribing consciousness to artificial intelligence: human-AI interaction and its carry-over effects on human-human interaction. Front Psychol. 2024 Mar 27;15:1322781. doi: 10.3389/fpsyg.2024.1322781. PMID: 38605842; PMCID: PMC11008604.
+
+
+
+以下是统一后的参考文献格式：
+
+1. Future of Life Institute. “Pause Giant AI Experiments: An Open Letter.” March 22, 2023. [Available here](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
+
+2. Žižek, Slavoj. “AI Chatbots are Naive Idiots with No Sense of Irony.” Project Syndicate, March 2023. [Available here](https://www.project-syndicate.org/commentary/ai-chatbots-naive-idiots-no-sense-of-irony-by-slavoj-zizek-2023-03?barrier=accesspaylog).
+
+3. Wolff, Josephine. “How Is Technology Changing the World, and How Should the World Change Technology?” Global Perspectives, 2021.
+
+
+ 1 February 2021; 2 (1): . doi:
+
+
+4. Laitinen, A., & Sahlgren, O. “AI Systems and Respect for Human Autonomy.” Frontiers in Artificial Intelligence, vol. 4, article 705164, October 26, 2021. doi: 10.3389/frai.2021.705164. PMID: 34765969; PMCID: PMC8576577.
+
+5. Guingrich, R.E., & Graziano, M.S.A. “Ascribing Consciousness to Artificial Intelligence: Human-AI Interaction and Its Carry-Over Effects on Human-Human Interaction.” Frontiers in Psychology, vol. 15, article 1322781, March 27, 2024. doi: 10.3389/fpsyg.2024.1322781. PMID: 38605842; PMCID: PMC11008604.
